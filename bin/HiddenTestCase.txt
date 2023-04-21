@@ -1,0 +1,73 @@
+Enigma Machine Daily Key Settings
+Daily Key Settings for 10 days starting 02/27/2023
+
+Day 1 (02/27/2023)
+Rotors:    IV III II
+Reflector: B
+Ring:      12 22 09
+Ground:    K I U
+Plugs:     BV EP HM OQ RD SI TJ UA WY XZ
+
+Day 2 (02/28/2023)
+Rotors:    VI II IV III I
+Reflector: A
+Ring:      15 17 1702 08 
+Ground:    M M JX D 
+Plugs:     AN CU DQ EP GL HM IO JY TK VX
+
+Day 3 (03/01/2023)
+Rotors:    VIII I IV II
+Reflector: C
+Ring:      19 03 2612 
+Ground:    G S WU 
+Plugs:     EP LM NG OB RT SI UW VD XA YQ
+
+Day 4 (03/02/2023)
+Rotors:    VIII IV V II VI
+Reflector: C
+Ring:      20 15 0908 09 
+Ground:    Q P VH M 
+Plugs:     AK CV ED HW JL OQ RM SB TZ XN
+
+Day 5 (03/03/2023)
+Rotors:    VII IV VI
+Reflector: A
+Ring:      12 19 10
+Ground:    M O L
+Plugs:     FS JE MT NA PO QL UH XG YW ZI
+
+Day 6 (03/04/2023)
+Rotors:    VIII VI III I
+Reflector: B
+Ring:      16 21 1003 
+Ground:    K K WG 
+Plugs:     DN GF JM KW OH QI RP SA UL YE
+
+Day 7 (03/05/2023)
+Rotors:    I VII II
+Reflector: A
+Ring:      06 18 14
+Ground:    V P F
+Plugs:     BL DK FG IC JO NX PV TY UR WQ
+
+Day 8 (03/06/2023)
+Rotors:    VI III V I
+Reflector: A
+Ring:      25 13 0206 
+Ground:    Y L IR 
+Plugs:     BO CL DQ FI JE KY MV RP TN XW
+
+Day 9 (03/07/2023)
+Rotors:    IV V I VI
+Reflector: C
+Ring:      19 22 0910 
+Ground:    Z O RP 
+Plugs:     AR FL GX PK QM UJ VI WN YO ZC
+
+Day 10 (03/08/2023)
+Rotors:    VII V VIII VI II
+Reflector: C
+Ring:      23 22 2320 04 
+Ground:    D A AX W 
+Plugs:     DA EI FX GL JN KW OC UT VH YB
+

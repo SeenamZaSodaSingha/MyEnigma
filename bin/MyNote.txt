@@ -1,0 +1,9 @@
+Wiring:
+In wiring the index stand for Alphabet character respectively and the order of character in the String is output from wiring.
+
+InuptList:
+- Confiigue
+    - Select rotors and order -> Roman number respectively
+    - Select reflector -> Alphabet character
+    - Configue plugboard wiring -> Pair of alphabet character
+- Input
